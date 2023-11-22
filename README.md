@@ -1,5 +1,6 @@
 # shopping_list
-
+Public Page:
+https://install.appcenter.ms/orgs/shopping-list-anisha/apps/shopping-list/distribution_groups/public
 A new Flutter project.
 
 ## Getting Started
